@@ -1,5 +1,5 @@
 # Rakib Dhali
-# 
+# pyrhon programme to check if a number is prime or not
 
 number = int(input("Enter the number: "))
 
